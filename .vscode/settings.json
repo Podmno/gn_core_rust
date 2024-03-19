@@ -3,5 +3,10 @@
         "./Cargo.toml",
         "./Cargo.toml",
         "./Cargo.toml"
-    ]
+    ],
+    "files.autoSave": "onFocusChange",
+    "editor.cursorStyle": "block",
+    "editor.wordWrap": "on",
+    "editor.fontFamily": "Liga SFMono Nerd Font,Menlo, Monaco, 'Courier New', monospace",
+    "rust-analyzer.showUnlinkedFileNotification": false
 }
