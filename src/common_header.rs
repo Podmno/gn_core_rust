@@ -6,4 +6,5 @@
 
 pub struct GUDeviceCommon {
 
+
 }
