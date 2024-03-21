@@ -1,7 +1,6 @@
 /*
-
+    nx_header.rs
     Nintendo Switch Header
-
 */
 
 enum GUDeviceNXType {
@@ -9,6 +8,11 @@ enum GUDeviceNXType {
     normalNX2,
     liteNX,
     oledNX
+}
+
+enum GUDeviceNXReigon {
+    globalNX,
+    chnNX
 }
 
 pub struct GUDeviceNX {
